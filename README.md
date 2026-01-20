@@ -3,7 +3,7 @@ Sistema de Classificação de Plantas Brasileiras
 Projeto Final – Programação Orientada a Objetos (POO)
 Universidade Federal do Ceará (UFC) – 2025.2
 
-⸻
+
 
 📌 Descrição do Projeto
 
@@ -17,7 +17,7 @@ A classificação das plantas ocorre por meio de perguntas interativas, permitin
 	•	Gimnospermas
 	•	Angiospermas
 
-⸻
+
 
 🎯 Objetivos
 	•	Aplicar corretamente os pilares da Programação Orientada a Objetos
@@ -26,7 +26,7 @@ A classificação das plantas ocorre por meio de perguntas interativas, permitin
 	•	Criar um menu interativo para identificação de plantas
 	•	Facilitar a compreensão da classificação botânica por meio de software
 
-⸻
+
 
 🧠 Conceitos de Programação Orientada a Objetos Aplicados
 
@@ -48,7 +48,7 @@ As classes especializadas herdam atributos e métodos da classe base Planta, evi
 
 O método exibir_info() é sobrescrito nas subclasses, permitindo comportamentos distintos para cada tipo de planta, mesmo sendo chamado de forma uniforme.
 
-⸻
+
 
 🗂️ Estrutura do Projeto
 📁 projeto-plantas
@@ -80,7 +80,7 @@ Descrição das Classes
 	•	Gimnosperma: planta com sementes, porém sem fruto
 	•	Angiosperma: planta com sementes e fruto
 
-⸻
+
 
 ▶️ Funcionamento do Sistema
 
@@ -98,7 +98,7 @@ Ao selecionar a opção de identificação, o sistema realiza perguntas como:
 
 Com base nas respostas fornecidas, o sistema identifica automaticamente a classe correta da planta e exibe suas informações.
 
-⸻
+
 
 📸 Evidências de Execução
 
@@ -109,7 +109,7 @@ Durante os testes do sistema, foram realizadas:
 
 Prints da execução podem ser adicionados conforme solicitado no enunciado do projeto.
 
-⸻
+
 
 📊 Considerações Finais
 
