@@ -120,3 +120,8 @@ O sistema atende integralmente aos requisitos propostos no Projeto Final da disc
 	•	Modelagem coerente do domínio botânico escolhido
 
 Além disso, o projeto possui estrutura modular, facilitando futuras expansões, como a inclusão de novos tipos de plantas ou critérios adicionais de classificação.
+
+
+DIAGRAMA UML
+<img width="1459" height="898" alt="Diagrama UML" src="https://github.com/user-attachments/assets/d9dcf231-4599-49ef-8e16-f0983f3b8376" />
+
